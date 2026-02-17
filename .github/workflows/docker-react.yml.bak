@@ -2,7 +2,7 @@ name: React Docker CI/CD
 
 on:
   push:
-    branches: ["master"] # change to master if needed
+    branches: ["main"] # change to master if needed
 #changes new
 jobs:
   build:
