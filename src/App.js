@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          In React, you can build encapsulated components that manage their own state, then compose them to make complex UIs.
+          New Version of React
         </p>
         <a
           className="App-link"
